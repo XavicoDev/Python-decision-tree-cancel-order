@@ -32,3 +32,12 @@ Este repositorio contiene el código en Python para realizar el análisis de un 
 
 ¡Disfrute del análisis del árbol de decisión y la comprensión de los patrones presentes en el conjunto de datos! Si desea exportar el árbol de decisión en otros formatos, descomente las líneas de código relevantes y proporcione la ruta de archivo deseada.
 
+**Arbol resultante**
+
+Arbol de decision completo
+
+![Clasificación original](images/arbol de decision completo.png)
+
+Arbol de decision resumido
+
+![Clasificación original](images/arbol de decision resumido.png)
