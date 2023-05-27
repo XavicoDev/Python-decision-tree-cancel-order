@@ -36,7 +36,7 @@ Este repositorio contiene el código en Python para realizar el análisis de un 
 
 Arbol de decision completo
 
-![Clasificación original](images/arbol_de_decision_completo.png)
+![Clasificación original](images/arbol_de_decision_total.png)
 
 Arbol de decision resumido
 
